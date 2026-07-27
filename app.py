@@ -110,7 +110,7 @@ elif page == "About Me":
 
     with col1:
         st.image(
-            "images/headshot.jpg",
+            "Images/headshot.jpg",
             width=250
         )
 
@@ -253,7 +253,7 @@ elif page == "Examples of Work":
     )
 
     st.image(
-                "images/dashboard.png",
+                "Images/dashboard.png",
                 width=1000
             )
 
@@ -277,7 +277,7 @@ elif page == "Examples of Work":
     )
 
     st.image(
-            "images/before_spreadsheet.png",
+            "Images/before_spreadsheet.png",
             width=1000
     )
     
@@ -292,7 +292,7 @@ elif page == "Examples of Work":
     )
         
     st.image(
-        "images/after_spreadsheet.png",
+        "Images/after_spreadsheet.png",
         width=1000
     )
     
