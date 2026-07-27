@@ -111,7 +111,7 @@ elif page == "About Me":
     with col1:
         st.image(
             "Images/headshot.JPG",
-            width=350
+            width=450
         )
 
 
